@@ -1,2 +1,2 @@
 # restaurant_management_app
-A simple restaurant management app
+A restaurant management app
